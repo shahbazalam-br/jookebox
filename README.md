@@ -1,4 +1,4 @@
-# jookebox
+# oncoin(bitcoindemo)
 Web page demo
 
 #Software used
